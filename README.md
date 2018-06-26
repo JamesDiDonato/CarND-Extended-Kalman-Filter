@@ -5,7 +5,7 @@
 ## June 2018
 Self-Driving Car Engineer Nanodegree Program
 
-In this project I ustilized a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower than the tolerance outlined in the project rubric. The filter exceeded the RMSE requirements with the following results [0.0964, 0.0853, 0.4154, 0.4316] for the state vector [x, y, Vx, Vy] respectively.
+In this project I utilized a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower than the tolerance outlined in the project rubric. The filter exceeded the RMSE requirements with the following results [0.0964, 0.0853, 0.4154, 0.4316] for the state vector [x, y, Vx, Vy] respectively.
 
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
 
